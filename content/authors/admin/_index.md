@@ -38,8 +38,6 @@ profiles:
     url: https://ca.linkedin.com/in/christiangoueguel
   - icon: brands/google-scholar
     url: https://scholar.google.ca/citations?user=RTSTmL0AAAAJ&hl=en
-  - icon: brands/orcid
-    url: https://www.orcid.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/christianGoueguel_CV.pdf

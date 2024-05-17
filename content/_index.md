@@ -23,7 +23,7 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: Selected research paper
-          icon: academicons/arxiv
+          icon: academicons/rsc
           url: https://pubs.rsc.org/en/content/articlehtml/2019/ja/c9ja00090a
         - text: Data Science
           icon: brands/medium
