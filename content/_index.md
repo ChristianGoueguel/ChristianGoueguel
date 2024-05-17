@@ -7,7 +7,7 @@ design:
   background:
     image:
       # Add your image background to `assets/media/`.
-      filename: bg-hue.svg
+      filename: background.svg
 
 sections:
   - block: biography
@@ -22,13 +22,13 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
+        - text: Selected research paper
           icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
+          url: https://pubs.rsc.org/en/content/articlehtml/2019/ja/c9ja00090a
+        - text: Data Science
+          icon: brands/medium
+          url: https://medium.com/@christian.goueguel
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://ca.linkedin.com/in/christiangoueguel
 ---
