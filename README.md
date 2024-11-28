@@ -1,5 +1,12 @@
 [![:name status badge](https://christiangoueguel.r-universe.dev/badges/:name)](https://christiangoueguel.r-universe.dev/)
-## Hi there 👋
+## Hi 👋 I'm Christian L. Goueguel
+
+Welcome to my GitHub! I am a research scientist with expertise in laser spectroscopy and chemometrics, focused on developing laser-based analytical techniques to address scientific and industrial challenges.
+
+🔬 **What I Do**
+-  **Laser Spectroscopy:** Innovating techniques for elemental and molecular detection.
+-  **Data Analysis:** Designing chemometric and machine learning models for accurate spectral interpretation.
+-  **Software Development:** Building tools to enhance spectroscopic data analysis and visualization.
 
 <!--
 **ChristianGoueguel/ChristianGoueguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
