@@ -2,7 +2,7 @@
 [![:packages status badge](https://christiangoueguel.r-universe.dev/badges/:packages)](https://christiangoueguel.r-universe.dev/packages)
 ## Hello! I'm Christian L. Goueguel
 
-Welcome to my GitHub! I am a research scientist specializing in laser spectroscopy and chemometrics, dedicated to advancing laser-based analytical instruments for rapid and accurate chemical analysis. I have authored over 20 publications in leading journals, including Spectrochimica Acta Part B: Atomic Spectroscopy, Journal of Analytical Atomic Spectrometry, Optics Letters, and others.
+Welcome to my GitHub! I am a research scientist specializing in laser spectroscopy and chemometrics. Over the past few years, I have focused on advancing laser-based analytical instruments to enable rapid and accurate chemical analysis. I have authored over 20 publications in leading journals, including Spectrochimica Acta Part B: Atomic Spectroscopy, Journal of Analytical Atomic Spectrometry, Optics Letters, and others.
 
 🔬 **What I Do**
 -  **Laser Spectroscopy:** Innovating methods for spectrochemical analysis of materials.
