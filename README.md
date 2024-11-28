@@ -5,7 +5,7 @@ Welcome to my GitHub! I am a research scientist specializing in laser spectrosco
 
 🔬 **What I Do**
 -  **Laser Analytical Spectroscopy:** Innovating methods for spectrochemical analysis.
--  **Data Analysis:** Developing chemometric and machine learning models for accurate spectral interpretation.
+-  **Data Analysis:** Developing chemometric and machine learning models for accurate spectral interpretation and quantitative analysis.
 -  **Software Development:** Building tools for spectroscopic data analysis and visualization.
 
 <!--
