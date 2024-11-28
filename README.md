@@ -1,3 +1,4 @@
+[![:name status badge](https://christiangoueguel.r-universe.dev/badges/:name)](https://christiangoueguel.r-universe.dev/)
 ## Hi there 👋
 
 <!--
