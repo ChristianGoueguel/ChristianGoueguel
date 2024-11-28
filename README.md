@@ -6,7 +6,7 @@ Welcome to my GitHub! I am a research scientist specializing in laser spectrosco
 🔬 **What I Do**
 -  **Laser Analytical Spectroscopy:** Innovating methods for spectrochemical analysis.
 -  **Data Analysis:** Designing chemometric and machine learning models for accurate spectral interpretation.
--  **Software Development:** Building tools to enhance spectroscopic data analysis and visualization.
+-  **Software Development:** Building tools to streamline spectroscopic data analysis and visualization.
 
 <!--
 **ChristianGoueguel/ChristianGoueguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
