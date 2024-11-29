@@ -5,7 +5,7 @@
 Welcome to my GitHub! I am a research scientist specializing in laser spectroscopy and chemometrics. Over the past few years, I have focused on advancing laser-based analytical instruments to enable rapid and accurate chemical analysis. I have authored over 20 publications in leading journals, including Spectrochimica Acta Part B: Atomic Spectroscopy, Journal of Analytical Atomic Spectrometry, Optics Letters, and others.
 
 🔬 **What I Do**
--  **Laser Spectroscopy:** Innovating methods for spectrochemical analysis of materials.
+-  **Laser Spectroscopy:** Innovating laser-based methods for spectrochemical analysis of materials.
 -  **Spectroscopic Data Analysis:** Developing chemometric and machine learning models for accurate spectra interpretation and quantitative analysis.
 -  **Software Development:** Building tools for spectroscopic data analysis and visualization.
 
