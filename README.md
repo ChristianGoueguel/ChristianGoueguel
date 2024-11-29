@@ -1,6 +1,7 @@
 [![:name status badge](https://christiangoueguel.r-universe.dev/badges/:name)](https://christiangoueguel.r-universe.dev/)
 [![:packages status badge](https://christiangoueguel.r-universe.dev/badges/:packages)](https://christiangoueguel.r-universe.dev/packages)
-![image](https://github.com/user-attachments/assets/8875aaca-4133-49cb-9876-b55c43128473){out.width="50%"} 
+<img src="https://github.com/user-attachments/assets/8875aaca-4133-49cb-9876-b55c43128473" width="50%">
+
 ## About Me
 
 
