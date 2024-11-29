@@ -4,7 +4,7 @@
 ## <img src="https://github.com/user-attachments/assets/8875aaca-4133-49cb-9876-b55c43128473" width="30" height="30">  About Me
 Welcome to my GitHub profile! I am a research scientist specializing in laser spectroscopy and chemometrics. Over the past few years, I have focused on advancing laser-based analytical instruments for rapid and accurate chemical analysis. I have authored over 20 publications in leading journals, including Spectrochimica Acta Part B: Atomic Spectroscopy, Journal of Analytical Atomic Spectrometry, Optics Letters, and others.
 
-<img src="https://github.com/user-attachments/assets/921d232f-2fca-4489-ab8a-90467876865e" width="25" height="25"> **What I Do**
+<img src="https://github.com/user-attachments/assets/921d232f-2fca-4489-ab8a-90467876865e" width="30" height="30"> **What I Do**
 -  **Laser Spectroscopy:** Innovating laser-based methods for spectrochemical analysis of materials.
 -  **Spectroscopic Data Analysis:** Developing chemometric and machine learning models for accurate spectra interpretation and quantitative analysis.
 -  **Software Development:** Building spectral data preprocessing and visualization tools.
