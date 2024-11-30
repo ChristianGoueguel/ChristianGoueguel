@@ -1,7 +1,7 @@
 [![:name status badge](https://christiangoueguel.r-universe.dev/badges/:name)](https://christiangoueguel.r-universe.dev/)
 [![:packages status badge](https://christiangoueguel.r-universe.dev/badges/:packages)](https://christiangoueguel.r-universe.dev/packages)
 
-## <img src="https://github.com/user-attachments/assets/8875aaca-4133-49cb-9876-b55c43128473" width="30" height="30">  About Me
+## <img src="https://github.com/user-attachments/assets/8875aaca-4133-49cb-9876-b55c43128473" width="30" height="30">  About
 Welcome to my GitHub profile! I am a research scientist specializing in laser spectroscopy and chemometrics. Over the past few years, I have focused on advancing laser-based analytical instruments for rapid and accurate chemical analysis. I have authored over 20 publications in leading journals, including Spectrochimica Acta Part B: Atomic Spectroscopy, Journal of Analytical Atomic Spectrometry, Optics Letters, and others.
 
 **What I Do**
