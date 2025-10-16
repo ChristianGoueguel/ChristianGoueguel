@@ -2,7 +2,7 @@
 [![:packages status badge](https://christiangoueguel.r-universe.dev/badges/:packages)](https://christiangoueguel.r-universe.dev/packages)
 
 ## <img src="https://github.com/user-attachments/assets/8875aaca-4133-49cb-9876-b55c43128473" width="30" height="30">  About
-Hi there, and welcome to my GitHub profile! I'm a research scientist with a passion for optics, laser spectroscopy, machine learning, and data science. In recent years I have been working on improving laser-based analytical instruments for rapid and accurate spectrochemical analysis. Along the way, I've also developed a few R packages for spectral data analysis—feel free to check them out!
+Hi there, and welcome to my GitHub profile! I'm a research scientist with a passion for optics, laser spectroscopy, chemometrics/machine learning, and data science. In recent years I have been working on improving laser-based analytical instruments for rapid and accurate spectrochemical analysis. Along the way, I've also developed a few R packages for spectral data analysis—feel free to check them out!
 
 ### Areas of Interest
 -  **Laser Spectroscopy:** Innovating laser-based methods for spectrochemical analysis of materials.
