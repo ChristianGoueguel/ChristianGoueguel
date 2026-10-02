@@ -5,7 +5,7 @@
 Hi there, and welcome to my GitHub profile! I'm passionate about laser spectroscopy and chemometrics, with a special focus on spectral data preprocessing. In recent years, I’ve been working on various laser-based analytical techniques for rapid and accurate spectrochemical analysis. Along the way, I’ve developed a few R and Python packages for spectral data analysis; feel free to check them out!
 
 ### Areas of Interest
--  Developing innovative laser-based techniques for materials characterization and spectrochemical analysis.
+-  Developing laser-based techniques for materials characterization.
 -  Building open-source software tools and pipelines for raw spectral data treatment.
 -  Co-optimizing instrument settings and predictive models for maximum quantitative accuracy.
 
