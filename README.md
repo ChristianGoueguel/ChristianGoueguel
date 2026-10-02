@@ -7,7 +7,7 @@ Feel free to check them out...!
 
 ### Areas of Interest
 -  Developing laser-based techniques for materials characterization.
--  Building open-source software tools and pipelines for raw spectral data treatment.
+-  Building open-source software tools and pipelines for raw spectral data preprocessing.
 -  Co-optimizing instrument settings and predictive models for maximum quantitative accuracy.
 
 <!--
