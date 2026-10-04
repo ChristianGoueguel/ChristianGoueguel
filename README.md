@@ -6,7 +6,7 @@ Hi there, and welcome to my GitHub profile! I'm passionate about laser spectrosc
 Feel free to check them out...!
 
 ### Areas of Interest
--  Developing laser-based techniques for materials characterization.
+-  Developing laser-based analytical techniques.
 -  Building open-source software tools and pipelines for raw spectral data preprocessing.
 -  Co-optimizing instrument settings and predictive models for maximum quantitative accuracy.
 
